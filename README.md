@@ -1,5 +1,4 @@
 
-```markdown
 # 🐍 Python for Kids - Free Course 🎉
 
 Welcome to the **Python for Kids** course repository! This course is designed to introduce kids to the world of programming using Python. The course will guide them from the basics of Python programming to intermediate concepts, using hands-on projects and interactive tools.
