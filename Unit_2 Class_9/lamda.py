@@ -9,3 +9,5 @@ print(addition(4,5))
 
 cube = lambda a: a**3
 print(cube(5))
+
+
