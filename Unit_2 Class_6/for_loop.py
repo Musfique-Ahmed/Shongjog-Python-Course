@@ -34,7 +34,7 @@
 # for hi in name:
 #     print(hi)
 
-# Count the number of vowels in the word "education" using a for loop.
+# # Count the number of vowels in the word "education" using a for loop.
 # word  = "education"
 # vowel_count = 0
 
