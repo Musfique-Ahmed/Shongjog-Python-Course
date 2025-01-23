@@ -1,0 +1,3 @@
+Rahim 45 dhaka 8000
+karim 38 chittagong 7500
+sajid 50 khulna 6000
