@@ -109,69 +109,73 @@
 # student_3 = Student("rafi", "10th Grade")
 
 
-# Ahan 
-class Rectangle:
-    school_name = "Area"
-    def __init__(self, length, width):
-        self.length = length
-        self.width = width
+# # Ahan 
+# class Rectangle:
+#     school_name = "Area"
+#     def __init__(self, length, width):
+#         self.length = length
+#         self.width = width
     
-    @property
-    def area(self):
-        return self.length * self.width
+#     @property
+#     def area(self):
+#         return self.length * self.width
 
-rect = Rectangle(9, 8)
-print(rect.area)
-# Farzia Lopa
-# 7:41 PM
-class Rectangle:
-    def __init__(self, length, width):
-        self._length, self._width = length, width
+# rect = Rectangle(9, 8)
+# print(rect.area)
+# # Farzia Lopa
+# # 7:41 PM
+# class Rectangle:
+#     def __init__(self, length, width):
+#         self._length, self._width = length, width
 
-    @property
-    def area(self): return self._length * self._width
+#     @property
+#     def area(self): return self._length * self._width
 
-    def __getattr__(self, attr): 
-        if attr == 'length': return self._length
-        if attr == 'width': return self._width
-        raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
+#     def __getattr__(self, attr): 
+#         if attr == 'length': return self._length
+#         if attr == 'width': return self._width
+#         raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{attr}'")
 
-# Example usage:
-r = Rectangle(4, 6)
-print(r.area)  # Output: 24
-# AHAN Mahmud Towseem N
-# 7:42 PM
-class Rectangle:
-    def __init__(self, length, width):
-        self.length = length
-        self.width = width
+# # Example usage:
+# r = Rectangle(4, 6)
+# print(r.area)  # Output: 24
+# # AHAN Mahmud Towseem N
+# # 7:42 PM
+# class Rectangle:
+#     def __init__(self, length, width):
+#         self.length = length
+#         self.width = width
 
-    @property
-    def area(self):
-        return self.length * self.width
+#     @property
+#     def area(self):
+#         return self.length * self.width
 
-rectangle = Rectangle(25, 8)
-print(f"Length: {rectangle.length}")    # Output: Length: 25
-print(f"Width: {rectangle.width}")      # Output: Width: 8
-print(f"Area: {rectangle.area}")        # Output: Area: 200
+# rectangle = Rectangle(25, 8)
+# print(f"Length: {rectangle.length}")    # Output: Length: 25
+# print(f"Width: {rectangle.width}")      # Output: Width: 8
+# print(f"Area: {rectangle.area}")        # Output: Area: 200
 
 
 
-# Md Ahnaf Rahman 21
-# 7:44 PM
-class rectangle:
-    def _init_(self , lenth , width):
-        self.lenth = lenth
-        self.width = width
+# # Md Ahnaf Rahman 21
+# # 7:44 PM
+# class rectangle:
+#     def _init_(self , lenth , width):
+#         self.lenth = lenth
+#         self.width = width
 
-        @property
-        def area(self):
-            return self.lenth * self.width
+#         @property
+#         def area(self):
+#             return self.lenth * self.width
         
 
 
-#EXAMPLE
-rectangle = Rectangle(25, 8)
-print(f"Length: {rectangle.length}")   
-print(f"Width: {rectangle.width}")      
-print(f"Area: {rectangle.area}")
+# #EXAMPLE
+# rectangle = Rectangle(25, 8)
+# print(f"Length: {rectangle.length}")   
+# print(f"Width: {rectangle.width}")      
+# print(f"Area: {rectangle.area}")
+
+
+
+
