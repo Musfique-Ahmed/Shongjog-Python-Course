@@ -179,3 +179,31 @@
 
 
 
+class Circle:
+    cirles = [] #Class variable [c1, c2]
+
+    # Instance Method
+    def __init__(self):
+        Circle.cirles.append(self)
+    
+    # Static Method
+    @staticmethod
+    def calculate_area(radious):
+        return 3.1416*radious**2
+
+    # Class Method
+    @classmethod
+    def display(cls):
+        print(f" In this class we have {len(cls.cirles)} circles")
+
+
+
+c1 = Circle()
+c2 = Circle()
+
+print(c1.calculate_area(5))
+print(c2.calculate_area(10))
+
+Circle.display()
+
+print(c1)
