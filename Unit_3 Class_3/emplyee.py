@@ -33,8 +33,13 @@ e_1 = Employee("Musfique", "9768054", 50000)
 e_1.promotion()
 e_1.display_info()
 
-
 p_1 = Programer("Nilim", "8465223", 100000, "Python")
 p_1.promotion()
 p_1.display_info()
 p_1.get_languge()
+
+
+
+"""Create a "Person" class, then create a "Student" class that inherits from it.
+
+"""
