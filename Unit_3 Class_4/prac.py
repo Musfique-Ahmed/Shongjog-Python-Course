@@ -100,7 +100,7 @@ print("Penguin:", Penguin.fly())
 # AHAN
 class Bird: #parent class
     def __init__(self, name):
-        self.name = name
+        self.name = name #"Eagle"
 
     def fly(self):
         return "Some birds can fly"
@@ -125,3 +125,40 @@ penguin = Penguin("Penguin")
 
 print(f"{eagle.name}: {eagle.fly()}")   # Output: Eagle: Can fly
 print(f"{penguin.name}: {penguin.fly()}") # Output: Penguin: Cannot fly
+
+
+# Object as a parameter in a function
+def describe_who_it_is(bird):
+    print(f"{bird.name} is a bird who {bird.fly()}.")
+    #eagle.name, eagle.fly()
+
+describe_who_it_is(eagle) #the eagle object is a parameter here
+
+
+
+# Abdullah
+class Bird:
+    def __init__(self, name):
+        self.name = name
+
+    def fly(self):
+        return "Some birds can fly"
+
+class Magpie(Bird):
+    def __init__(self, name):
+        super().__init__(name)
+
+    def fly(self):
+        return "Can fly"
+
+class Hen(Bird):
+    def __init__(self, name):
+        super().__init__(name)
+
+    def fly(self):
+        return "Cannot fly"
+magpie = Magpie("Magpie")
+hen = Hen("Hen")
+
+print(f"{magpie.name}: {magpie.fly()}")   # Output: Magpie: Can fly
+print(f"{hen.name}: {hen.fly()}") # Output: Hen: Cannot fly
