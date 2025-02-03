@@ -28,9 +28,9 @@ while running:
     if keys[pygame.K_RIGHT]:
         x += 1
     if keys[pygame.K_UP]:
-        x -= 1
+        y -= 1
     if keys[pygame.K_DOWN]:
-        x += 1
+        y += 1
     
     screen.fill(WHITE)
     pygame.draw.circle(screen, BLUE, (x, y), 30)
