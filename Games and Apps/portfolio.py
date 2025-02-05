@@ -15,8 +15,8 @@ if page == "Home":
 elif page == "Projects":
     st.title("🚀 My Projects")
     projects = [
-        {"name": "Doc App", "desc": "AI-powered digital hospital system.", "link": "https://github.com/Anik-Mushfik/doc-app"},
-        {"name": "CMED", "desc": "Cloud-based rural healthcare system.", "link": "https://github.com/Anik-Mushfik/cmed"},
+        {"name": "Doc App", "desc": "AI-powered digital hospital system.", "link": "https://github.com/Musfique-Ahmed/doc-app"},
+        {"name": "CMED", "desc": "Cloud-based rural healthcare system.", "link": "https://github.com/Musfique-Ahmed/cmed"},
     ]
     for project in projects:
         st.subheader(project["name"])
@@ -38,7 +38,7 @@ elif page == "Contact":
     st.title("📞 Contact Me")
     st.write("📧 Email: anikmushfik@gmail.com")
     st.write("🔗 [LinkedIn](https://linkedin.com/in/musfique-ahmed-aa89a5293)")
-    st.write("🐙 [GitHub](https://github.com/Anik-Mushfik)")
-    st.write("📱 Phone: 01961905838")
+    st.write("🐙 [GitHub](https://github.com/Musfique-Ahmed)")
+    st.write("📱 Phone: 01*********")
 
 # Run this with: streamlit run <filename>.py
