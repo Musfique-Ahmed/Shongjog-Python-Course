@@ -1,13 +1,27 @@
 # import turtle
 
 # t = turtle.Turtle()
-# for _ in range(4):  # Loop 4 times
+# turtle.speed(1)
+# for i in range(4):
 #     t.forward(100)
-#     t.right(90)  # Turn 90 degrees
+#     t.right(90)
+
 
 # turtle.done()
-import turtle
 
+# import turtle
+# # create a turtle object
+# t= turtle.Turtle()
+
+# t.forward(100)
+# t.left(120)
+# t.forward(100)
+# t.left(120)
+# t.forward(100)
+
+# turtle.done()
+
+import turtle
 
 turtle.speed(1)
 turtle.color("red")
