@@ -1,0 +1,241 @@
+Month,Region,Product Category,Sales ($),Units Sold,Profit ($)
+Jan,North,Electronics,28654,229,11179.15
+Jan,North,Clothing,26575,238,8487.26
+Jan,North,Home Appliances,11265,260,2478.24
+Jan,North,Furniture,26962,137,7191.89
+Jan,North,Sports,21023,180,4291.15
+Jan,South,Electronics,5769,137,2114.27
+Jan,South,Clothing,28333,179,6696.93
+Jan,South,Home Appliances,11420,210,2978.89
+Jan,South,Furniture,11396,285,2331.76
+Jan,South,Sports,13666,108,3826.1
+Jan,East,Electronics,23431,269,9249.41
+Jan,East,Clothing,5189,239,1852.66
+Jan,East,Home Appliances,26042,157,7886.74
+Jan,East,Furniture,22912,180,8522.99
+Jan,East,Sports,13838,70,4014.4
+Jan,West,Electronics,26777,181,10401.27
+Jan,West,Clothing,15253,291,4226.35
+Jan,West,Home Appliances,28897,102,7113.83
+Jan,West,Furniture,27619,160,9298.01
+Jan,West,Sports,20787,57,4300.37
+Feb,North,Electronics,19541,130,4919.56
+Feb,North,Clothing,8943,181,2346.13
+Feb,North,Home Appliances,16653,103,5151.47
+Feb,North,Furniture,12989,270,5116.59
+Feb,North,Sports,11873,93,4605.53
+Feb,South,Electronics,5995,63,2071.0
+Feb,South,Clothing,16534,249,5193.14
+Feb,South,Home Appliances,6016,239,1594.64
+Feb,South,Furniture,28247,286,7182.36
+Feb,South,Sports,14268,73,3871.63
+Feb,East,Electronics,26243,237,8096.99
+Feb,East,Clothing,12208,206,4400.24
+Feb,East,Home Appliances,21448,138,8522.95
+Feb,East,Furniture,26847,178,6436.38
+Feb,East,Sports,20422,188,4896.55
+Feb,West,Electronics,5391,212,1930.17
+Feb,West,Clothing,17666,54,6806.01
+Feb,West,Home Appliances,11184,77,4167.39
+Feb,West,Furniture,18067,211,3958.15
+Feb,West,Sports,7454,111,1975.58
+Mar,North,Electronics,24115,153,6147.98
+Mar,North,Clothing,14762,242,4082.95
+Mar,North,Home Appliances,13110,255,4847.85
+Mar,North,Furniture,22412,267,5540.18
+Mar,North,Sports,17685,152,3680.01
+Mar,South,Electronics,5206,64,1156.66
+Mar,South,Clothing,28419,254,6830.33
+Mar,South,Home Appliances,22247,280,6564.51
+Mar,South,Furniture,26500,145,8986.24
+Mar,South,Sports,19820,200,6359.91
+Mar,East,Electronics,6678,220,1606.81
+Mar,East,Clothing,28052,209,8970.27
+Mar,East,Home Appliances,24541,77,9471.34
+Mar,East,Furniture,14789,234,3269.83
+Mar,East,Sports,18931,93,5363.19
+Mar,West,Electronics,15173,124,4018.86
+Mar,West,Clothing,15230,141,4131.28
+Mar,West,Home Appliances,28776,178,7067.01
+Mar,West,Furniture,11776,165,3185.57
+Mar,West,Sports,14474,152,3371.45
+Apr,North,Electronics,10530,186,3127.05
+Apr,North,Clothing,18545,221,4614.46
+Apr,North,Home Appliances,12994,167,3167.32
+Apr,North,Furniture,22879,282,6423.67
+Apr,North,Sports,23237,290,5827.45
+Apr,South,Electronics,22675,88,6790.02
+Apr,South,Clothing,28664,150,7365.73
+Apr,South,Home Appliances,22082,162,8729.52
+Apr,South,Furniture,19555,103,4040.26
+Apr,South,Sports,10855,274,3548.18
+Apr,East,Electronics,18949,179,5801.94
+Apr,East,Clothing,10791,247,2680.6
+Apr,East,Home Appliances,9931,232,3498.93
+Apr,East,Furniture,25602,194,8849.16
+Apr,East,Sports,7327,118,2391.98
+Apr,West,Electronics,5197,263,1596.28
+Apr,West,Clothing,20087,193,7373.14
+Apr,West,Home Appliances,14339,236,3402.7
+Apr,West,Furniture,20708,52,6588.84
+Apr,West,Sports,28482,213,5790.89
+May,North,Electronics,6986,196,1884.36
+May,North,Clothing,6734,101,2613.5
+May,North,Home Appliances,23343,177,7085.77
+May,North,Furniture,16111,178,5399.41
+May,North,Sports,13120,266,3172.6
+May,South,Electronics,26918,271,9129.42
+May,South,Clothing,21646,193,7867.12
+May,South,Home Appliances,14208,293,4346.66
+May,South,Furniture,7049,178,1541.06
+May,South,Sports,25932,86,9764.11
+May,East,Electronics,12158,58,3109.7
+May,East,Clothing,14874,97,5493.45
+May,East,Home Appliances,9499,201,2668.28
+May,East,Furniture,17183,165,3725.76
+May,East,Sports,10539,215,3517.89
+May,West,Electronics,29829,276,8186.76
+May,West,Clothing,10592,148,4181.01
+May,West,Home Appliances,7961,177,2078.4
+May,West,Furniture,16969,103,4915.66
+May,West,Sports,22340,218,5254.03
+Jun,North,Electronics,10699,82,3196.63
+Jun,North,Clothing,26295,197,7186.26
+Jun,North,Home Appliances,18446,244,6115.27
+Jun,North,Furniture,16296,225,3564.5
+Jun,North,Sports,13050,263,3302.18
+Jun,South,Electronics,11893,207,4693.0
+Jun,South,Clothing,8436,100,3192.26
+Jun,South,Home Appliances,24738,76,8880.01
+Jun,South,Furniture,26277,146,8287.26
+Jun,South,Sports,14151,274,3382.78
+Jun,East,Electronics,12996,97,3328.98
+Jun,East,Clothing,9642,241,3173.13
+Jun,East,Home Appliances,13208,221,5125.92
+Jun,East,Furniture,15716,95,6018.8
+Jun,East,Sports,19434,173,3946.88
+Jun,West,Electronics,23711,142,6772.73
+Jun,West,Clothing,17468,144,6860.1
+Jun,West,Home Appliances,26472,165,6853.33
+Jun,West,Furniture,22364,209,8279.76
+Jun,West,Sports,24711,116,5779.87
+Jul,North,Electronics,6816,283,2639.37
+Jul,North,Clothing,5569,116,1748.73
+Jul,North,Home Appliances,8863,163,2862.76
+Jul,North,Furniture,16093,200,3669.47
+Jul,North,Sports,21538,283,8086.97
+Jul,South,Electronics,5784,153,1963.11
+Jul,South,Clothing,17533,225,5445.12
+Jul,South,Home Appliances,10801,296,3067.01
+Jul,South,Furniture,23225,202,7485.48
+Jul,South,Sports,28355,299,5700.4
+Jul,East,Electronics,17323,222,4137.68
+Jul,East,Clothing,17039,287,6119.7
+Jul,East,Home Appliances,27386,264,5628.46
+Jul,East,Furniture,18121,81,5720.0
+Jul,East,Sports,5853,100,1715.63
+Jul,West,Electronics,21958,239,5649.97
+Jul,West,Clothing,27841,107,5738.03
+Jul,West,Home Appliances,14907,219,5433.9
+Jul,West,Furniture,20338,237,5396.29
+Jul,West,Sports,19599,102,4984.19
+Aug,North,Electronics,20979,54,6114.39
+Aug,North,Clothing,26253,158,6271.21
+Aug,North,Home Appliances,9142,148,2993.88
+Aug,North,Furniture,12987,193,5132.08
+Aug,North,Sports,22019,155,5826.04
+Aug,South,Electronics,26136,169,6642.89
+Aug,South,Clothing,10177,232,2546.0
+Aug,South,Home Appliances,13308,111,4886.64
+Aug,South,Furniture,28944,189,8156.15
+Aug,South,Sports,6081,171,1406.46
+Aug,East,Electronics,18407,175,4026.99
+Aug,East,Clothing,25056,281,9694.74
+Aug,East,Home Appliances,18184,65,5515.92
+Aug,East,Furniture,14662,118,4726.21
+Aug,East,Sports,13130,125,4112.41
+Aug,West,Electronics,8506,278,1905.62
+Aug,West,Clothing,14435,118,3158.83
+Aug,West,Home Appliances,23525,287,9313.6
+Aug,West,Furniture,16151,267,5696.02
+Aug,West,Sports,27868,88,7503.76
+Sep,North,Electronics,28805,271,9504.35
+Sep,North,Clothing,10881,59,4241.73
+Sep,North,Home Appliances,7849,229,2157.87
+Sep,North,Furniture,28289,196,8504.44
+Sep,North,Sports,14207,118,4784.81
+Sep,South,Electronics,24223,129,7956.86
+Sep,South,Clothing,21347,177,6986.46
+Sep,South,Home Appliances,5851,201,1962.62
+Sep,South,Furniture,16938,173,3822.91
+Sep,South,Sports,10052,228,3660.21
+Sep,East,Electronics,10387,116,3781.75
+Sep,East,Clothing,18479,123,4459.66
+Sep,East,Home Appliances,25764,190,6258.53
+Sep,East,Furniture,8373,179,1739.85
+Sep,East,Sports,7082,264,1517.23
+Sep,West,Electronics,28132,203,9461.43
+Sep,West,Clothing,16261,211,4100.03
+Sep,West,Home Appliances,25358,245,8585.66
+Sep,West,Furniture,10745,286,4161.86
+Sep,West,Sports,12543,213,3557.06
+Oct,North,Electronics,28548,298,8838.3
+Oct,North,Clothing,10988,250,3446.98
+Oct,North,Home Appliances,24170,226,8370.79
+Oct,North,Furniture,22955,259,5738.83
+Oct,North,Sports,7143,201,2667.36
+Oct,South,Electronics,17043,162,5725.92
+Oct,South,Clothing,15518,266,3842.99
+Oct,South,Home Appliances,27301,66,8377.73
+Oct,South,Furniture,13787,161,3831.73
+Oct,South,Sports,25876,236,5692.64
+Oct,East,Electronics,18923,189,7412.3
+Oct,East,Clothing,29466,125,7984.73
+Oct,East,Home Appliances,22101,272,8622.07
+Oct,East,Furniture,26330,299,8593.25
+Oct,East,Sports,26364,118,6818.84
+Oct,West,Electronics,28576,229,9558.78
+Oct,West,Clothing,12651,102,4533.05
+Oct,West,Home Appliances,6062,158,2341.06
+Oct,West,Furniture,26689,216,10653.88
+Oct,West,Sports,9729,182,3379.92
+Nov,North,Electronics,13924,284,4750.4
+Nov,North,Clothing,9846,125,3324.07
+Nov,North,Home Appliances,22337,285,8340.05
+Nov,North,Furniture,16493,56,4704.11
+Nov,North,Sports,22575,219,6305.88
+Nov,South,Electronics,28322,171,6494.83
+Nov,South,Clothing,27556,214,6796.57
+Nov,South,Home Appliances,18807,158,5155.53
+Nov,South,Furniture,13691,194,5331.96
+Nov,South,Sports,9312,94,3265.49
+Nov,East,Electronics,8141,208,2412.45
+Nov,East,Clothing,24307,231,8289.1
+Nov,East,Home Appliances,27361,68,6080.69
+Nov,East,Furniture,16714,222,3380.75
+Nov,East,Sports,14435,175,3049.55
+Nov,West,Electronics,28003,249,6258.82
+Nov,West,Clothing,14576,216,5090.07
+Nov,West,Home Appliances,15188,141,5960.3
+Nov,West,Furniture,6214,162,1345.82
+Nov,West,Sports,22312,215,6409.51
+Dec,North,Electronics,7105,93,2810.6
+Dec,North,Clothing,27700,110,7327.68
+Dec,North,Home Appliances,25559,167,9838.39
+Dec,North,Furniture,16003,278,4010.32
+Dec,North,Sports,18843,234,5739.95
+Dec,South,Electronics,22640,98,7678.35
+Dec,South,Clothing,24870,50,8095.47
+Dec,South,Home Appliances,13053,52,4963.16
+Dec,South,Furniture,29504,252,7558.71
+Dec,South,Sports,15975,65,6039.39
+Dec,East,Electronics,28959,205,7735.88
+Dec,East,Clothing,14337,141,4722.17
+Dec,East,Home Appliances,8719,235,2143.82
+Dec,East,Furniture,5539,269,1506.99
+Dec,East,Sports,9835,241,2858.52
+Dec,West,Electronics,28486,194,7291.07
+Dec,West,Clothing,27516,261,8820.43
+Dec,West,Home Appliances,22308,190,8525.79
+Dec,West,Furniture,24708,183,9635.13
+Dec,West,Sports,21639,246,6982.54
