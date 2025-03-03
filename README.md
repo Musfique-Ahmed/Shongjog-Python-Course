@@ -88,7 +88,7 @@ For any questions or support, feel free to reach out to the course instructor:
 
 - **Name**: Musfique Ahmed
 - **Email**: anikmushfik@gmail.com 📧
-- **Phone**: 01961905838 📱
+- **Phone**: 📱
 - **LinkedIn**: [MUSFIQUE AHMED](https://linkedin.com/in/musfique-ahmed-aa89a5293) 💼
 - **GitHub**: [Anik-Mushfik](https://github.com/Anik-Mushfik) 👨‍💻
 
