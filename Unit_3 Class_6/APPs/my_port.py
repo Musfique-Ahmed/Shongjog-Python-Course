@@ -7,7 +7,8 @@ page = st.sidebar.radio("GO to", ["Home", "Projects", "Skills", "Contact"])
 
 if page == "Home":
     st.title("Welcome to my Portfolio!")
-    # st.image
+    st.image("image.png", "Python", 500)
+    st.image("image_2.png")
     st.write("Hi i am Musfique Ahmed, a data Science Student at UIU.")
     st.write("This portfolio showcases my works")
 
