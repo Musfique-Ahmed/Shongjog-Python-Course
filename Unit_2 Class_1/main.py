@@ -1,11 +1,5 @@
-foods=("fried rice","fried chiken","beef","mutton","mixed vegetables")
+import time
 
-# for food in foods:
-#     # print(food)
-#     print(f"Our item: {food}")
-
-# foods[2] = "water"
-
-foods = ("fried rice","fried chiken","mutton","mixed vegetables", "water")
-for food in foods:
-    print(f"Our item: {food}")
+for i in range(1, 21):
+    print(i, end=" ")
+    time.sleep(1)
